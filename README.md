@@ -21,7 +21,7 @@ OpenShift Do (Odo) is a CLI tool for developers who are writing, building, and d
 
 ## Why Did We Create Odo?
 
-Odo was created to improve the developer experience with OpenShift. We understand that, as developers, you want tools that help you be productive. What do you don't want, is to have to change the way you work or have to become an expert in Kubernetes or OpenShift just to get your work done. 
+Odo was created to improve the developer experience with OpenShift. We understand that, as developers, you want tools that help you be productive. What you don't want, is to have to change the way you work or have to become an expert in Kubernetes or OpenShift just to get your work done. 
 
 Existing tools for interacting with OpenShift, such as the `oc` CLI tool, are more operations-focused and require an understanding of Kubernetes and OpenShift concepts such as pods, services, deployment configurations, and routes. The Odo CLI tool, on the other hand, was designed to use syntax and concepts that are familiar to developers, such as project, application, and component. Odo enables a fast, iterative development cycle allowing you to immediately start coding, while Odo builds, pushes, and deploys your application in the background. Since Odo can build and deploy your code to your cluster immediately after you save you changes, you benefit from instant feedback and can thus validate your changes in real-time. 
 
